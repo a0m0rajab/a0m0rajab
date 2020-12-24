@@ -5,3 +5,4 @@
 - 🤔 I’m looking for help with front-end 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Github Campus expert, Mozilla Club leader, Microsoft learn Ambassador.
+- 💻 Projects: BahisQurani, Simple Store, Rat program, Turing simulator. 
